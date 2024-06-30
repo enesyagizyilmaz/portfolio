@@ -10,9 +10,9 @@ function AboutCard() {
           <p style={{ textAlign: "justify" }}>
             Hi Everyone, I am <span className="purple">Enes Yağız Yılmaz </span>
             from <span className="purple"> Turkey, Ankara.</span>
-            <br />
+            <br /><br />
             I am currently employed as a Candidate Engineer at Türksat.
-            <br />
+            <br /><br />
             I have completed Integrated BSc in Computer Engineering at Çankaya University.
             <br />
             <br />
