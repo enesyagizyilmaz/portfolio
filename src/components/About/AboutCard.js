@@ -9,11 +9,11 @@ function AboutCard() {
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
             Hi Everyone, I am <span className="purple">Enes Yağız Yılmaz </span>
-            from <span className="purple"> Turkey, Ankara.</span>
+            from <span className="purple"> Ankara, Turkey</span>
             <br /><br />
-            I am currently employed as a Candidate Engineer at Türksat.
+            I am currently employed as a Candidate Engineer at Türksat
             <br /><br />
-            I have completed Integrated BSc in Computer Engineering at Çankaya University.
+            I have completed Integrated BSc in Computer Engineering at Çankaya University
             <br />
             <br />
             Apart from coding, some other activities that I love to do!
