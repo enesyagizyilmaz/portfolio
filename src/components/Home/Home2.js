@@ -21,14 +21,15 @@ function Home2() {
             <p className="home-about-body">
               I am a software engineer with honors degree,
               having graduated from Çankaya University,
-              Department of Computer Engineering with a 3.01 GPA.
+              Department of Computer Engineering with a 3.01 GPA
               <br />
               <br />I am currently interested in
               <i>
                 <b className="purple"> Java, Spring Boot (Spring Web/
                   Security/Data/JPA, Hibernate) React.js, JavaScript
-                  and TypeScript </b>
-              </i>technologies.
+                  and TypeScript
+                </b>
+              </i>technologies
               <br />
               <br />
               My field of Interest's are building new &nbsp;
@@ -36,7 +37,7 @@ function Home2() {
                 <b className="purple">Web Technologies and Products </b> and
                 also in areas related to{" "}
                 <b className="purple">
-                  Big Data.
+                  Big Data
                 </b>
               </i>
               <br />

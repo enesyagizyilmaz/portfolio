@@ -35,7 +35,7 @@ function Projects() {
               application. I used Java, Spring Boot, React.js and TypeScript technologies. You can access
               more detailed information on the GitHub wiki page, or you can also watch our introductory video."
               ghLink="https://github.com/CankayaUniversity/ceng-407-408-2023-2024-Simulating-Scientific-Experiments-Using-Virtual-Reality"
-              demoLink="https://blogs.soumya-jit.tech/"
+              demoLink="https://www.youtube.com/watch?v=g7_OW_zAVwI&ab_channel=EnesYa%C4%9F%C4%B1zY%C4%B1lmaz"
             />
           </Col>
 
