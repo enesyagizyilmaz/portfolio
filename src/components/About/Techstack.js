@@ -32,9 +32,6 @@ function Techstack() {
         <DiJavascript1 />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <DiAtlassian />
-      </Col>
-      <Col xs={4} md={2} className="tech-icons">
         <DiMongodb />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
@@ -57,9 +54,6 @@ function Techstack() {
       </Col>
       <Col xs={4} md={2} className="tech-icons">
          <DiSpark />
-      </Col>
-      <Col xs={4} md={2} className="tech-icons">
-         <DiAws />
       </Col>
     </Row>
   );

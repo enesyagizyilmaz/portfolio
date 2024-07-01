@@ -29,7 +29,7 @@ function Home2() {
                   Security/Data/JPA, Hibernate) React.js, JavaScript
                   and TypeScript
                 </b>
-              </i>technologies
+              </i> technologies
               <br />
               <br />
               My field of Interest's are building new &nbsp;
@@ -82,7 +82,7 @@ function Home2() {
 
               <li className="social-icons">
                 <a
-                  href="https://www.linkedin.com/in/soumyajit4419/"
+                  href="https://www.linkedin.com/in/enes-ya%C4%9F%C4%B1z-y%C4%B1lmaz-4621711a5/"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
