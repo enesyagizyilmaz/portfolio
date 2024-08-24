@@ -19,9 +19,8 @@ function Home2() {
               ABOUT <span className="purple"> ME </span>
             </h1>
             <p className="home-about-body">
-              I am a software engineer with honors degree,
-              having graduated from Çankaya University,
-              Department of Computer Engineering with a 3.01 GPA
+              I work as a software engineer at Türksat, one of the world's leading
+              telecommunications and IT companies.
               <br />
               <br />I am currently interested in
               <i>
