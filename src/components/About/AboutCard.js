@@ -11,7 +11,7 @@ function AboutCard() {
             Hi Everyone, I am <span className="purple">Enes Yağız Yılmaz </span>
             from <span className="purple"> Ankara, Turkey</span>
             <br /><br />
-            I am currently employed as a Candidate Engineer at Türksat
+            I am currently employed as a Software Engineer at Türksat Uydu Haberleşme Kablo TV ve İşletme A.Ş.
             <br /><br />
             I have completed Integrated BSc in Computer Engineering at Çankaya University
             <br />
