@@ -741,3 +741,21 @@ button:focus {
 .fork-btn-inner::after {
   display: none !important;
 }
+
+.profile-picture {
+  position: absolute; /* Kesin pozisyonlama için */
+  top: 17%; /* Yukarı taşımak için */
+  left: 15%; /* Sola taşımak için */
+  transform: translate(-50%, -50%); /* Resmi daha hassas bir şekilde konumlandırmak için */
+  border-radius: 50%; /* Yuvarlak hale getirmek için */
+  border: 5px solid white; /* Beyaz çerçeve eklemek için */
+  overflow: hidden; /* Taşan alanları gizlemek için */
+}
+
+.profile-img {
+  width: 150px; /* Resmin boyutunu ayarlamak için */
+  height: 150px; /* Resmin boyutunu ayarlamak için */
+  object-fit: cover; /* Resmin içeriğini kapsayacak şekilde kırp */
+}
+
+

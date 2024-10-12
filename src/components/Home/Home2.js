@@ -8,6 +8,7 @@ import {
   AiFillInstagram, AiFillMail,
 } from "react-icons/ai";
 import { FaLinkedinIn } from "react-icons/fa";
+import pphoto from "../../Assets/enes-img1.jpg";
 
 function Home2() {
   return (
@@ -57,7 +58,7 @@ function Home2() {
           </Col>
           <Col md={4} className="myAvtar">
             <Tilt>
-              <img src={myImg} className="img-fluid" alt="avatar" />
+              <img src={pphoto} className="img-fluid" alt="avatar" />
             </Tilt>
           </Col>
         </Row>
