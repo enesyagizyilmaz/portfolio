@@ -25,34 +25,27 @@ function Home2() {
               <br />
               <br />I am currently interested in
               <i>
-                <b className="purple"> Java, Spring Boot (Spring Web/
-                  Security/Data/JPA, Hibernate) React.js, JavaScript
-                  and TypeScript
+                <b className="purple"> Java and Spring Boot (Spring Web/Security/Data/JPA, Hibernate)
                 </b>
               </i> technologies
               <br />
               <br />
               My field of Interest's are building new &nbsp;
               <i>
-                <b className="purple">Web Technologies and Products </b> and
-                also in areas related to{" "}
+                <b className="purple">scalable backend systems </b> and
+                working with{" "}
                 <b className="purple">
                   Big Data
                 </b>
               </i>
               <br />
               <br />
-              Whenever possible, I also apply my passion for developing products
-              with <b className="purple">Spring Boot</b> and
+              Lately, I have been focusing on real-time data processing and event-driven architectures using  <b className="purple">Apache Kafka</b> and
               <i>
                 <b className="purple">
                   {" "}
-                  Modern Javascript Library and Frameworks
+                  related tools in the Big Data ecosystem.
                 </b>
-              </i>
-              &nbsp; like
-              <i>
-                <b className="purple"> React.js</b>
               </i>
             </p>
           </Col>

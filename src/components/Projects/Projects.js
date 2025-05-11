@@ -9,6 +9,7 @@ import jwt from "../../Assets/Projects/jwt.png"
 import vr from "../../Assets/Projects/vr.png"
 import hoaxify from "../../Assets/Projects/hoaxify.png"
 import jsf from "../../Assets/Projects/jsf.png"
+import kafka from "../../Assets/Projects/kafka.png"
 
 function Projects() {
   return (
@@ -69,6 +70,16 @@ function Projects() {
               title="spring-jsf"
               description="It is a CRUD application that I developed using JSF (PrimeFaces) and Spring Boot."
               ghLink="https://github.com/enesyagizyilmaz/spring-jsf"
+            />
+          </Col>
+
+          <Col md={4} className="project-card">
+            <ProjectCard
+                imgPath={kafka}
+                isBlog={false}
+                title="kafka-library-event"
+                description="Designed and developed a Kafka-based “Library Events” project using Java and Spring Boot, focusing on real-time event publishing and consumption. Implemented Kafka Producers and Consumers with proper configurations to ensure reliable message delivery. Emphasized Consumer Groups and manual Consumer Offset Management for scalable and controlled message processing. Integrated advanced error handling, retry, and recovery mechanisms to build a resilient messaging system. This project demonstrates key Kafka concepts in action with production-grade implementation standards."
+                ghLink="https://github.com/enesyagizyilmaz/kafka-library-event"
             />
           </Col>
         </Row>
